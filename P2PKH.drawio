@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T09:10:04.842Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.10" etag="1IF7j3xsvLvUoaBO3fN5" type="github"><diagram id="b0xz2XhQMsdWAGmPXNjz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T09:16:54.563Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="G1s9w3Yum7Tv3vcL6SO-" version="14.5.10" type="github">
+  <diagram id="b0xz2XhQMsdWAGmPXNjz" name="Page-1">
+    <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAVNg3cCR6QAMTij7jGD-2" target="yAVNg3cCR6QAMTij7jGD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;私钥&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAVNg3cCR6QAMTij7jGD-3" target="yAVNg3cCR6QAMTij7jGD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-3" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;完整公钥&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAVNg3cCR6QAMTij7jGD-4" target="yAVNg3cCR6QAMTij7jGD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-4" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;公钥哈希&lt;br&gt;（钱包地址）&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;A 用户&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="210" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-15">
+          <mxGeometry x="10" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;B 用户&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-15">
+          <mxGeometry y="10" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-12" value="&lt;b style=&quot;font-size: 20px&quot;&gt;公钥哈希&lt;br&gt;的拷贝&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-15">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="210" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-17">
+          <mxGeometry x="10" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-14" value="&lt;b style=&quot;font-size: 20px&quot;&gt;公钥哈希&lt;br&gt;的拷贝&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-17">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;交易 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yAVNg3cCR6QAMTij7jGD-17">
+          <mxGeometry y="10" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yAVNg3cCR6QAMTij7jGD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAVNg3cCR6QAMTij7jGD-12" target="yAVNg3cCR6QAMTij7jGD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
