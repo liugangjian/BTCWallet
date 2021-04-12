@@ -1,29 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T04:36:22.732Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="eMn_ALyOOM2ac_1JmI43" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T04:43:10.804Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="GNuGdaaw_Uszs8jXpZpH" version="14.5.10" type="github">
   <diagram id="UKAJ2oIfAn2R5n8EJACQ" name="Page-1">
     <mxGraphModel dx="1106" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-p60DnaDyC4y8QLk-plE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="120" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;区块 n-1&lt;br&gt;区块头&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="180" width="75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;前驱区块&lt;br&gt;头哈希值&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="260" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Merkle 根&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="320" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-p60DnaDyC4y8QLk-plE-7" target="-p60DnaDyC4y8QLk-plE-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;区块n-1中包含&lt;br&gt;的交易信息&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-p60DnaDyC4y8QLk-plE-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="180" width="120" height="280" as="geometry" />
+          <mxGeometry x="389" y="180" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-p60DnaDyC4y8QLk-plE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-15">
           <mxGeometry width="120" height="200" as="geometry" />
@@ -43,8 +25,11 @@
         <mxCell id="-p60DnaDyC4y8QLk-plE-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;区块n中包含&lt;br&gt;的交易信息&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-15">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-27" value="区块 n 哈希值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-15">
+          <mxGeometry x="12.5" y="56" width="95" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="-p60DnaDyC4y8QLk-plE-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="180" width="120" height="280" as="geometry" />
+          <mxGeometry x="566" y="180" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-p60DnaDyC4y8QLk-plE-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-16">
           <mxGeometry width="120" height="200" as="geometry" />
@@ -64,22 +49,43 @@
         <mxCell id="-p60DnaDyC4y8QLk-plE-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;区块n+1中包含&lt;br&gt;的交易信息&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-16">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-23" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-p60DnaDyC4y8QLk-plE-2" target="-p60DnaDyC4y8QLk-plE-11">
+        <mxCell id="-p60DnaDyC4y8QLk-plE-28" value="区块 n+1 哈希值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-16">
+          <mxGeometry x="12.5" y="55" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-p60DnaDyC4y8QLk-plE-26" target="-p60DnaDyC4y8QLk-plE-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="270" as="sourcePoint" />
-            <mxPoint x="340" y="220" as="targetPoint" />
+            <mxPoint x="457" y="337" as="sourcePoint" />
+            <mxPoint x="507" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="240" as="sourcePoint" />
-            <mxPoint x="582.5" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="180" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="-p60DnaDyC4y8QLk-plE-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="-p60DnaDyC4y8QLk-plE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;区块 n-1&lt;br&gt;区块头&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry x="25" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;前驱区块&lt;br&gt;头哈希值&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry x="12.5" y="80" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Merkle 根&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry x="12.5" y="140" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-p60DnaDyC4y8QLk-plE-32" source="-p60DnaDyC4y8QLk-plE-7" target="-p60DnaDyC4y8QLk-plE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;区块n-1中包含&lt;br&gt;的交易信息&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-26" value="区块 n-1 哈希值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-p60DnaDyC4y8QLk-plE-32">
+          <mxGeometry x="15" y="55" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-p60DnaDyC4y8QLk-plE-33" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="240" as="sourcePoint" />
-            <mxPoint x="222.5" y="280" as="targetPoint" />
+            <mxPoint x="498" y="245" as="sourcePoint" />
+            <mxPoint x="579.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
