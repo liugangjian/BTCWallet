@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T12:05:55.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.6" etag="xufw6wB85a1rGy1XCUbb" type="github"><diagram id="VjH_OvZCvEZaA-o9RY9X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-08T12:25:24.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="G0paWrWBi27mFwJvMyLa" version="14.6.6" type="github">
+  <diagram id="VjH_OvZCvEZaA-o9RY9X" name="Page-1">
+    <mxGraphModel dx="708" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XTpP_U34S0JEjZCJywL5-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="108.3" y="-126.05" width="512.11" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-2" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="XTpP_U34S0JEjZCJywL5-1" target="XTpP_U34S0JEjZCJywL5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;跨境支付&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;零售型&lt;br&gt;或&lt;br&gt;批发型&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;任何人都&lt;br&gt;可以获取&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="138.95" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;在交易中保护隐私&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;有弹性且健壮的操作&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;便利性：事实使用&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-15" value="&lt;span style=&quot;font-size: 18px&quot;&gt;类似现金一样可以点对点支付&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;基于账户&lt;br&gt;或&lt;br&gt;基于通证&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="163.95" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-17" value="&lt;span style=&quot;font-size: 18px&quot;&gt;选择分布式账本技术&lt;br&gt;或&lt;br&gt;传统的集中式记账方式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;直接还是间接模式？&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410.41" y="365" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-20" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="293.3" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-21" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108.3" y="340" width="511.7" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-22" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="410" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="198.95" width="163.3" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XTpP_U34S0JEjZCJywL5-24" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="230" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
