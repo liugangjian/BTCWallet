@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T09:02:33.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ILL9L1NgM4gFqXisFPlr" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T09:09:28.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="RpwsB-IEQLQ4T2-UE9Cs" version="14.6.6" type="github">
   <diagram id="nz7V435rbGTaK7ESCfE1" name="Page-1">
     <mxGraphModel dx="1853" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
           <mxGeometry x="295" y="105" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Majim5uuupVk0N4lPzxY-91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="700.0023084793027" width="140" height="114.27263346820169" as="geometry" />
+          <mxGeometry x="210" y="740.0023084793027" width="140" height="114.27263346820169" as="geometry" />
         </mxCell>
         <mxCell id="Majim5uuupVk0N4lPzxY-58" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;rotation=0;" vertex="1" parent="Majim5uuupVk0N4lPzxY-91">
           <mxGeometry x="18.572287786332126" width="102.84803959937274" height="114.27263346820169" as="geometry" />
@@ -306,8 +306,8 @@
         </mxCell>
         <mxCell id="Majim5uuupVk0N4lPzxY-100" value="" style="endArrow=none;html=1;fontSize=16;strokeWidth=2;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="660" as="sourcePoint" />
-            <mxPoint x="390" y="750" as="targetPoint" />
+            <mxPoint x="526.42" y="650" as="sourcePoint" />
+            <mxPoint x="366.42" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Majim5uuupVk0N4lPzxY-101" value="" style="endArrow=none;html=1;fontSize=16;strokeWidth=2;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
@@ -327,6 +327,27 @@
         </mxCell>
         <mxCell id="Majim5uuupVk0N4lPzxY-105" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-19.99771221366791" y="840.0023084793027" width="102.84803959937274" height="114.27263346820169" as="geometry" />
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-140" value="" style="endArrow=none;html=1;fontSize=16;strokeWidth=2;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="690" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-141" value="&lt;font style=&quot;font-size: 24px&quot;&gt;用户提交交易请求&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="221" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-142" value="&lt;font style=&quot;font-size: 24px&quot;&gt;区块链网络节点不断&lt;br&gt;收集交易打包至区块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="169.75" y="450" width="260.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-143" value="&lt;span style=&quot;font-size: 24px&quot;&gt;算法指派一权威节点将该笔交易打包到区块中&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="-220.25" y="710" width="260.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-144" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;其余节点对该&lt;br&gt;区块进行验证&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Majim5uuupVk0N4lPzxY-145" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;验证通过后正式生成新区块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="730" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
